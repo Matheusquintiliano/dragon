@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 Sep 2024 19:04:16 at https://betmillion.co/girouganhou/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://betmillion.co/girouganhou/ -O1 "C:\Meus Sites\Dragon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:04:24	Error: 	"Unprocessable Entity" (422) at link https://betmillion.co/girouganhou/images/logo192.png (from https://betmillion.co/girouganhou/)
+19:04:24	Error: 	"Not Found" (404) at link https://betmillion.co/girouganhou/POST (from https://connect.facebook.net/en_US/fbevents.js)
+19:04:24	Error: 	"Not Found" (404) at link https://betmillion.co/girouganhou/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+19:04:24	Error: 	"Not Found" (404) at link https://betmillion.co/girouganhou/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+19:04:24	Error: 	"Not Found" (404) at link https://betmillion.co/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+19:04:25	Error: 	"Not Found" (404) at link https://betmillion.co/girouganhou/$&/ (from https://betmillion.co/girouganhou/js/main.0d01978b.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 11 links scanned, 4 files written (642800 bytes overall) [392167 bytes received at 43574 bytes/sec], 567387 bytes transferred using HTTP compression in 9 files, ratio 27%, 4.0 requests per connection
+(6 errors, 0 warnings, 0 messages)
